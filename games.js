@@ -14,7 +14,7 @@ const GAMES = [
   { title: "Pip Star Peaks",    ripoffOf: "Super Mario 64",      url: ORG + "pip-star-peaks/",    emoji: "⭐", description: "Jump on Enemies, that deserve it." },
   { title: "Portal Lab 7",      ripoffOf: "Portal",              url: ORG + "portal-lab-7/",      emoji: "🕳️", description: "Shoot Portals Everywhere, and get revenge." },
   { title: "Nitro Pitch",       ripoffOf: "Rocket League",       url: ORG + "nitro-pitch/",       emoji: "⚽", description: "Score Goals and Win, or get angry and lose." },
-  { title: "Turbo Karts",       ripoffOf: "Mario Kart",          url: ORG + "turbo-karts/",       emoji: "💨", description: "Race Against Bots, repeat forever." },
   { title: "Midnight Horde",    ripoffOf: "Vampire Survivors",   url: ORG + "midnight-horde/",    emoji: "🧛", description: "Defeat/Destroy Enemies, kinda like Blooket Monster Brawl." },
+  { title: "Orbital Forge",     ripoffOf: "Kerbal Space Program",url: ORG + "orbital-forge/",     emoji: "🚀", description: "Launch Rockets, and blow them up when something goes wrong." },
   { title: "Home",              ripoffOf: "N/A",                 url: ORG + "home/",              emoji: "🏠", description: "Go back to the good site." },
 ];
